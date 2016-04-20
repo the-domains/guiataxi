@@ -1,0 +1,28 @@
+name: Guía Taxi
+favicon: null
+layout_spectrum: 0.8680254977662116
+typography_spectrum: 0.4160738296341151
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8258778122253716
+  lightness: 0.4910439478699118
+  saturation: 0.7341441488824785
+  rhythmicContrast: 0.5144936447031796
+purpose: []
